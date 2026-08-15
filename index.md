@@ -48,8 +48,6 @@ Travlr Getaways is a full-stack web application enhanced as part of my CS 499 ca
 
 ### Artifact Narrative
 
-Artifact Description
-
 The artifact I selected for this enhancement is the Travlr Getaways full-stack travel management app that I developed in CS-465 Full Stack Development I. The application was originally created in June 2026 using the MEAN stack, including Angular, Node.js, Express, MongoDB, and RESTful APIs. The application allows users to browse available travel packages while providing an administrative interface where authenticated users can create, read, update, and manage trip information. Administrative functionality is secured using JSON Web Token (JWT) authentication.
 
 Justification for Inclusion
@@ -87,8 +85,6 @@ The Animal Shelter Dashboard demonstrates my ability to work with algorithms, da
 **[View Enhanced Artifact](LINK-HERE)**
 
 ### Artifact Narrative
-
-Description
 
 The artifact I selected for this enhancement is the Animal Shelter Dashboard, which I originally developed in CS-340: Advanced Programming Concepts. The application was created in 2026 using Python, MongoDB, Dash, and Plotly to provide an interactive dashboard for managing and visualizing animal shelter records. The original project connected to a MongoDB database through a custom CRUD module and allowed users to view animal records, apply basic rescue-type filters, and display visualizations using charts and an interactive map.
 Justification for Inclusion
