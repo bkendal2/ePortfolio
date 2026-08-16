@@ -33,7 +33,7 @@ Completing this degree and developing my ePortfolio has given me a much clearer 
 
 My CS 499 code review evaluates the original versions of my selected artifacts and discusses opportunities for improvement across software engineering and design, algorithms and data structures, databases, and security.
 
-**[Watch My Code Review](PASTE-YOUTUBE-LINK-HERE)**
+**[Watch My Code Review](https://www.youtube.com/watch?v=38KvFVZE0s8)**
 
 ---
 
