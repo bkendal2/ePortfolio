@@ -43,8 +43,8 @@ My CS 499 code review evaluates the original versions of my selected artifacts a
 
 Travlr Getaways is a full-stack web application enhanced as part of my CS 499 capstone to demonstrate growth in software design and engineering.
 
-**[View Original Artifact](LINK-HERE)**  
-**[View Enhanced Artifact](LINK-HERE)**
+**[View Original Artifact](https://github.com/bkendal2/CS-465/tree/4f97e208152a8d47cea396948145b11f73f6ce7b)**  
+**[View Enhanced Artifact](https://github.com/bkendal2/CS-465/tree/467790302f149d862ed614e0468a398fb95b9544)**
 
 ### Artifact Narrative
 
@@ -81,8 +81,8 @@ Overall, this enhancement demonstrates my ability to maintain, improve, and exte
 
 The Animal Shelter Dashboard demonstrates my ability to work with algorithms, data processing, filtering, sorting, and data presentation.
 
-**[View Original Artifact](LINK-HERE)**  
-**[View Enhanced Artifact](LINK-HERE)**
+**[View Original Artifact](https://github.com/bkendal2/animal-rescue-dashboard/tree/main)**  
+**[View Enhanced Artifact](https://github.com/bkendal2/animal-rescue-dashboard/tree/cs499-enhancement)**
 
 ### Artifact Narrative
 
@@ -119,8 +119,8 @@ Overall, this enhancement strengthened my understanding of algorithms, data stru
 
 The Weight Tracker Android application demonstrates my ability to integrate database functionality and persistent data storage into a mobile application.
 
-**[View Original Artifact](LINK-HERE)**  
-**[View Enhanced Artifact](LINK-HERE)**
+**[View Original Artifact](https://github.com/bkendal2/Weight-Tracking-App/tree/main)**  
+**[View Enhanced Artifact](https://github.com/bkendal2/Weight-Tracking-App/tree/cs499-enhancement)**
 
 ### Artifact Narrative
 
